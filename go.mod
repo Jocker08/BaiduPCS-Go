@@ -16,7 +16,7 @@ require (
 	github.com/peterh/liner v1.2.1
 	github.com/qjfoidnh/Baidu-Login v1.4.0
 	github.com/qjfoidnh/baidu-tools v0.0.0-20201218182636-dfa5778abeed
-	github.com/tidwall/gjson v1.6.4
+	github.com/tidwall/gjson v1.9.3
 	github.com/urfave/cli v1.22.5
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
 	golang.org/x/sys v0.0.0-20200615200032-f1bc736245b1
